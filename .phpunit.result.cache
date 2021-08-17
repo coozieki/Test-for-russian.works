@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Feature\\CamelCaseTest::testCreate":4,"Tests\\Feature\\CamelCaseTest::testSave":4},"times":{"Tests\\Unit\\ExampleTest::test_example":0.004,"Tests\\Feature\\CamelCaseTest::testCreate":0.131,"Tests\\Feature\\CamelCaseTest::testSave":0.022,"Tests\\Feature\\ExampleTest::test_example":0.042,"Tests\\Feature\\CamelCaseTest::testUpdate":0.02}}
